@@ -84,7 +84,7 @@ def reset_game():
     update_status()
     for i in range(3):
         for j in range(3):
-            buttons[i][j].config(text="", state="normal", bg="#41cccc")
+            buttons[i][j].config(text="", state="normal", bg="#edf7f7")
             states[i][j] = 0
     if game_mode.get() == "Computer" and current_player == "O":
         app.after(500, computer_move)
@@ -120,7 +120,7 @@ for i in range(3):
     for j in range(3):
         buttons[i][j] = Button(
             button_frame, text="", height=2, width=6, font=("Cooper Black", 20),
-            bg="white", fg="black", activebackground="#a8e6cf", borderwidth=3, relief='solid',
+            bg="#edf7f7", fg="black", activebackground="#a8e6cf", borderwidth=3, relief='solid',
             command=lambda r=i, c=j: clicked(r, c)
         )
         buttons[i][j].grid(row=i, column=j, padx=3, pady=3)
