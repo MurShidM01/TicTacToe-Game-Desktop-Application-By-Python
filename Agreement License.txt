@@ -1,0 +1,40 @@
+End User License Agreement (EULA) for Tic-Tac-Toe Game Application
+
+Please read this agreement carefully. This End User License Agreement (“Agreement”) is a legal contract between you (“User”) and **Ali Khan Jalbani** (“Developer”) governing the use of the Tic-Tac-Toe Game Application (“Application”). By installing, copying, or using this Application, you agree to comply with all terms and conditions stated herein. If you do not agree to these terms, do not install or use the Application.
+
+1. Grant of License
+The Developer grants the User a limited, non-exclusive, non-transferable, and revocable license to download, install, and use the Application solely for personal, non-commercial use in accordance with the terms of this Agreement.
+
+2. Intellectual Property Rights
+The Application, including all related code, graphics, and content, is the intellectual property of the Developer and is protected by applicable copyright, trademark, and other proprietary rights laws. No rights, title, or interest in the Application, except as explicitly granted in this Agreement, are transferred to the User. The Developer retains all rights not expressly granted to the User.
+
+ 3. License Restrictions
+The User agrees not to:
+•	Modify, adapt, translate, or create derivative works of the Application.
+•	Decompile, reverse engineer, disassemble, or otherwise attempt to derive the source code of the Application.
+•	Distribute, lease, rent, sublicense, or otherwise transfer the Application to third parties.
+•	Remove or alter any copyright, trademark, or proprietary notices or labels on the Application.
+•	Use the Application for any commercial purposes, including selling or renting it or incorporating it into any commercial products.
+
+4. Updates and Modifications
+The Developer reserves the right, at their sole discretion, to modify, update, or discontinue the Application or any feature therein, with or without notice to the User. The Developer is not obligated to provide support or maintenance for the Application.
+
+5. Disclaimer of Warranties
+To the maximum extent permitted by applicable law, the Application is provided “as is” without warranties of any kind, express or implied, including but not limited to implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement. The User assumes all risks associated with the use of the Application.
+6. Limitation of Liability
+
+In no event shall the Developer be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or in connection with the use or inability to use the Application, including but not limited to damages for loss of data, loss of profits, or business interruption, even if the Developer has been advised of the possibility of such damages. The Developer’s total liability in connection with this Agreement shall not exceed the amount paid by the User for the Application, if any.
+
+7. Termination
+This Agreement is effective until terminated. The User’s rights under this Agreement will automatically terminate without notice if the User fails to comply with any of its terms. Upon termination, the User must immediately cease all use of the Application and destroy any copies in their possession.
+
+ 8. Governing Law and Jurisdiction
+This Agreement shall be governed by and construed in accordance with the laws of [Country/State], without regard to its conflict of law principles. Any disputes arising out of or related to this Agreement shall be resolved exclusively in the courts located within Karachi, Pakistan.
+
+9. Entire Agreement
+This Agreement constitutes the entire agreement between the User and the Developer regarding the use of the Application and supersedes all prior or contemporaneous agreements, understandings, or communications, whether written or oral, relating to the subject matter of this Agreement.
+
+10. Contact Information
+For any questions, inquiries, or to report any issues related to this Agreement, please contact the Developer at Ali-Edu
+
+                                                                                       © 2024 Ali Khan Jalbani. All rights Reserved
