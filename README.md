@@ -28,7 +28,7 @@ Welcome to the **Tic-Tac-Toe Game** repository! This project showcases a classic
 To install and run the Tic-Tac-Toe game, follow these steps:
 
 1. **Download the Executable File**:
-   - Download the TicTacToe Game executable file (`TicTacToe_Game_V1.0.exe`) from the [Releases](link-to-your-releases) section of this repository.
+   - Download the TicTacToe Game executable file (`TicTacToe_Game_V1.0.exe`) from the [Releases](https://github.com/MurShidM01/TicTacToe-Game-Desktop-Application-By-Python/releases/) section of this repository.
 2. **Run the Executable**:
    - Double-click on the downloaded `.exe` file.
    - If prompted, allow the application to run on your system.
